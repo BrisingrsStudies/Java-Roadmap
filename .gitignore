@@ -1,0 +1,21 @@
+# Kompilierte Java-Dateien
+*.class
+out/
+bin/
+build/
+target/
+
+# IntelliJ IDEA (Projekteinstellungen bleiben lokal)
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Betriebssystem-Müll
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Daten, die das Programm zur Laufzeit schreibt (ab Etappe P8)
+lauf-tracker/data/

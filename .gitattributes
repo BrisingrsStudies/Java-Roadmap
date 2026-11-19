@@ -1,0 +1,9 @@
+# Zeilenenden automatisch angleichen (Windows CRLF / Linux LF)
+* text=auto
+
+*.java text
+*.md   text
+*.csv  text
+
+*.png  binary
+*.jpg  binary
